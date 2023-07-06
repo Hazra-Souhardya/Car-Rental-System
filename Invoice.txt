@@ -1,0 +1,30 @@
+
+		                       Car Rental - Customer Invoice                  
+			////////////////////////////////////////////////////////////////
+
+			Date and Time of Invoice : Thu Jul 29 10:04:47 2021
+
+			| Invoice Number :---------------|                         16948 |
+			| Customer Name:-----------------|                    Arun Kumar |
+			| Customer Address:--------------|      21, G.K.Road, Mumbai-113 |
+			| Customer Contact Number:-------|                    9876543210 |
+			| Car Model Number:--------------|                  Ford Mustang |
+			| Number of Cars :---------------|                             3 |
+			| Number of Days :---------------|                             5 |
+			| Car Rental Amount is :---------|                         45000 |
+			| Driver Rental Amount is :------|                         30000 |
+			 _____________________________________________________________
+
+			| Total Rental Amount is :-------|                         75000 |
+			 _____________________________________________________________
+
+			     This is a computer generated invoice and it does not
+			               require an authorised signture 
+
+			////////////////////////////////////////////////////////////////
+
+			     You are advised to pay up the amount before due date.
+			               Otherwise penelty fee will be applied.
+
+			///////////////////////////////////////////////////////////////
+
