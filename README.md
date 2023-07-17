@@ -9,7 +9,7 @@ It consists of many features with automatic invoice printing facility.
 - In order to store all the user's data a file(text file) is created by the system. So, every time this program saves data to a text file.
 - Car rental system helps in renting cars to customer and generate an invoice.
 
-Some Screenshots -
+Some screenshots -
 
 ![CRS PIC 1](https://github.com/Hazra-Souhardya/Car-Rental-System/assets/138146925/3dc57bf1-3284-4848-b106-4aeaba97e17a)
 
